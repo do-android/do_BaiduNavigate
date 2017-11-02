@@ -1,0 +1,9 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_BaiduNavigate/libs/docore.jar
+/doExt_do_BaiduNavigate/do_BaiduNavigate.zip
